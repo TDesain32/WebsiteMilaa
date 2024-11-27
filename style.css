@@ -1,0 +1,51 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/ad/5b/3d/ad5b3d097fd78fb61a9168e564bbd39a.jpg);
+}
+
+div{
+    background-color: #1e1d1d;
+    padding: 30px;
+    margin-top: 10px;
+    text-align: center;
+    border-radius: 10px;
+    text-emphasis-color: white;
+}
+p{
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+img{
+    border-radius: 15px;
+    margin-right: 10px;
+    padding: 10px;
+    padding-left: 10px;
+    width: 240px;
+    border-radius: 50px;
+    box-shadow: #ff008c;
+    shape-rendering: auto;
+    height: 270px;
+}
+.foto2{
+    box-shadow: #ff008c;
+}
+
+h5{
+color: aliceblue;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h4{
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button{
+    color: aliceblue;
+    background-color: rgb(0, 136, 255);
+    border-radius:5px;
+    box-shadow: none;
+    border: 1px;
+    height: 35px;
+    width: 100px;
+}
